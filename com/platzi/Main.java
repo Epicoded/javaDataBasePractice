@@ -2,6 +2,8 @@ package com.platzi;
 
 import java.util.Scanner;
 
+import com.platzi.service.MessageService;
+
 public class Main {
 	public static void main(String[] args) {
 		
